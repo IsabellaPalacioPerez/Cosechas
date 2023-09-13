@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PastoDulce
+  m_Name: Agua2
   m_Shader: {fileID: -6465566751694194690, guid: 48541e10896bc4cfe928e1fd6c644890,
     type: 3}
   m_ValidKeywords: []
@@ -39,19 +39,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap_Upper:
-        m_Texture: {fileID: 2800000, guid: 7ebd1713ebedb69478b2d5acfc7e9627, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8048fb5596d8cc7498427d5b28343dbb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap_Lower:
-        m_Texture: {fileID: 2800000, guid: 1c3f608959f85bb4896de742aac42c8c, type: 3}
+        m_Texture: {fileID: 2800000, guid: b02aa4fc533292e4595459993ff738d6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap_Upper:
-        m_Texture: {fileID: 2800000, guid: 1c3f608959f85bb4896de742aac42c8c, type: 3}
+        m_Texture: {fileID: 2800000, guid: b02aa4fc533292e4595459993ff738d6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap_Lower_Met_Smt_AO:
-        m_Texture: {fileID: 2800000, guid: 1c3f608959f85bb4896de742aac42c8c, type: 3}
+        m_Texture: {fileID: 2800000, guid: b02aa4fc533292e4595459993ff738d6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap_Upper_Met_Smt_AO:
